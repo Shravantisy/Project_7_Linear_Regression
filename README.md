@@ -1,8 +1,9 @@
 # Project_7_Linear_Regression
-Relationship between Height and weight.
+Data source: Kaggle
+Relationship between Height and weight using Linear Regression.
 
 
-#Conclusions
+# Conclusion
 
 1. Height and Weight are loosely positvely correlated
 
